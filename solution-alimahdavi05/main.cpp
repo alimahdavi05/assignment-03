@@ -1,4 +1,8 @@
 
+/* ----------------------------------------------------------------------------
+ * Copyright &copy; 2016 alimahdavi <alimahdavi05@csu.fullerton.edu>
+ * Released under the [MIT License] (http://opensource.org/licenses/MIT)
+ * ------------------------------------------------------------------------- */
 #include <iostream>
 #include "test.h"
 #include "recursion.h"
